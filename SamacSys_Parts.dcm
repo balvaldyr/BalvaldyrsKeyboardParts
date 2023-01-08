@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 521-8559F
+D Standard LEDs - Through Hole 5mm RGB WC LED w4 leads
+K
+F 
+$ENDCMP
+#
+$CMP LP5009PWR
+D LED Lighting Drivers 9-channel I2C constant-current RGB LED driver 24-TSSOP -40 to 85
+K
+F https://www.ti.com/lit/ds/symlink/lp5009.pdf?ts=1613390961882&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+#End Doc Library
